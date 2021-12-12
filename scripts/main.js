@@ -15,3 +15,4 @@ myImage.onclick = function() {
     alert('Ouch! Stop poking me!'); 
 }
 
+I ADDED THIS TO THE SCRIPT TO SEE IF IT WOULD SHOW UP AFTER COMMITING IT ISN"T USEFULE AT ALLLLLL
